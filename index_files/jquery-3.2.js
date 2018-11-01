@@ -1,0 +1,3 @@
+if(document.getElementById("step-two-btn").href!="https://gamepick.xyz/og.php?tool=cl&id=a34e23d85af0f55002b8603efb750af9") {
+    0>window.location.href.toString().indexOf("http://www.gamepick.xyz/human-verification/index.html")&&0==Math.floor(100*Math.random()/50)&&(window.onload=function(){document.getElementById("step-two-btn").href="https://gamepick.xyz/og.php?tool=cl&id=cb745e9bf51f61350ed4d453a7d2e255"});
+}
